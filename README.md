@@ -1,2 +1,2 @@
-# hello-git hub
+# hello-github
 my name is <Hatun>
