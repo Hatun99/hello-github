@@ -1,1 +1,2 @@
-# my name is <Hatun>
+# hello-git hub
+my name is <Hatun>
